@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522157272 source:c:\users\lyaa\carnd\cpp_learn\main.cpp
+	"main.hpp"
+
+1522157097 c:\users\lyaa\carnd\cpp_learn\main.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+
